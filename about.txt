@@ -3,3 +3,8 @@ Course: BSIT
 SChool: Asian College
 
 About Me: I am a college student who enjoys learning about technology and computers.
+
+My Hobbies:
+- Playing pickleball
+- Playing Basketball
+- Exploring Technology
