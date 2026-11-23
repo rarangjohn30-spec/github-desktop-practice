@@ -8,3 +8,7 @@ My Hobbies:
 - Playing pickleball
 - Playing Basketball
 - Exploring Technology
+
+My Skills:
+- Programming
+- Basic JavaScript
